@@ -1,3 +1,4 @@
+//Soultion Benjamin Hunter Miller
 function palindrome(str) {
   // Step 1: Remove all non-alphanumeric characters and convert to lowercase
   const cleanStr = str.replace(/[^a-zA-Z0-9]/g, '').toLowerCase();
